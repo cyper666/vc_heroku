@@ -21,10 +21,10 @@ COMMANDS
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/zyrus-basi/vc_heroku"
+                        "SOURCE CODE", url="https://t.me/joinchat/ep0CiBbpVU8wMzg1"
                     ),
                     InlineKeyboardButton(
-                        "GROUP", url="https://t.me/uniedbotsupport"
+                        "GROUP", url="https://t.me/marshmallow_music666"
                     )
                 ]
             ]
